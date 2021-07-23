@@ -1,0 +1,13 @@
+sudo ip link set eno1 down
+
+# Command to configure multi-monitor set up
+xrandr --output VGA-1 --auto --right-of DP-2
+
+# Command to start Minecraft
+java -jar TLauncher-2.75.jar
+
+# Command to load module for virtual camera
+v4l2loopback module loacted at /etc/modules-load.d/
+
+# Command to make dwm
+sudo make clean install CC=gcc

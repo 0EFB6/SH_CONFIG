@@ -1,0 +1,12 @@
+#!/bin/sh
+
+#xrandr --output VGA-1 --auto --right-of DP-2
+feh --bg-scale .pic/1.jpeg
+#/home/linux/.dwm/dwm-bar/dwm_bar.sh &
+/usr/bin/ibus-daemon &
+xrdb -merge ~/.Xresources
+#ibus-dameon
+dwmblocks &
+
+#exec startxfce4
+exec dwm

@@ -1,12 +1,15 @@
-#!/bin/sh
-
-#xrandr --output VGA-1 --auto --right-of DP-2
-feh --bg-scale .pic/1.jpeg
-#/home/linux/.dwm/dwm-bar/dwm_bar.sh &
-/usr/bin/ibus-daemon &
-xrdb -merge ~/.Xresources
-#ibus-dameon
+feh --bg-scale .wallpapers/1.png &
 dwmblocks &
+xrdb -merge ~/.Xresources &
+fcitx-autostart &
+virt &
+imwheel &
+nightshift -l 3.1412:101.68653 &
+#nightshift &
+#polybar linux &
 
-#exec startxfce4
+export GTK_IM_MODULE=fcitx
+export QT_IM_MODULE=fcitx
+export XMODIFIERS=@im=fcitx
+
 exec dwm

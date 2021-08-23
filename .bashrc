@@ -93,6 +93,7 @@ alias la='ls -A'
 #alias l='ls -CF'
 alias yy='systemd-analyze && free -h && sensors | grep "Core" && uptime'
 alias gg='git add . && git commit'
+alias gc='git clone '
 
 # Alias definitions.
 # You may want to put all your additions into a separate file like

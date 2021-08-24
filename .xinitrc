@@ -4,8 +4,6 @@ xrdb -merge ~/.Xresources &
 fcitx-autostart &
 virt &
 imwheel &
-nightshift -l 3.1412:101.68653 &
-#nightshift &
 #polybar linux &
 
 export GTK_IM_MODULE=fcitx

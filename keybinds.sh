@@ -40,6 +40,7 @@ M-Z				: Launch Brave
 M-S				: Launch Spotify
 M-Q				: Launch Pulsemixer
 M-O				: Launch OBS
+M-G				: Launch Chromium
 
 Camera
 M-X				: Start school camera

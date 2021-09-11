@@ -94,6 +94,8 @@ alias la='ls -A'
 alias yy='systemd-analyze && free -h && sensors | grep "Core" && uptime'
 alias gg='git add . && git commit'
 alias gc='git clone '
+alias sp='sudo pacman -Syu'
+alias ss='sudo pacman -Ss'
 
 # Alias definitions.
 # You may want to put all your additions into a separate file like

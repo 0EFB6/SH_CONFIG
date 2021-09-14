@@ -120,3 +120,4 @@ fi
 
 export PATH=$PATH:/root/.local/bin
 [[ $(fgconsole 2>/dev/null) == 1 ]] && exec startx
+[[ $(fgconsole 2>/dev/null) == 2 ]] && exec startx

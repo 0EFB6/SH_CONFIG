@@ -96,6 +96,7 @@ alias gg='git add . && git commit'
 alias gc='git clone '
 alias sp='sudo pacman -Syu'
 alias ss='sudo pacman -Ss'
+alias gp='git push'
 
 # Alias definitions.
 # You may want to put all your additions into a separate file like

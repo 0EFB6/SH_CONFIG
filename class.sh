@@ -54,7 +54,7 @@ DELTA_t=$((35*60))
 day_1=( "${banhui[@]}" "${calc[@]}" "${eng[@]}" "${malay[@]}" "${chem[@]}" "${cont[@]}" "${moral[@]}" "${calc[@]}" "${bio[@]}" "${newmath[@]}" "${chinese[@]}" )
 day_2=( "${banhui[@]}" "${engcom[@]}" "${malay[@]}" "${music[@]}" "${chinese[@]}" "${eng[@]}" "${newmath[@]}" "${malayhis[@]}" "${moral[@]}" "${malay[@]}" "${addmath[@]}" )
 day_3=( "${banhui[@]}" "${cont[@]}" "${phy[@]}" "${cont[@]}" "${calc[@]}" "${chinese[@]}" "${cont[@]}" "${malayhis[@]}" "${eng[@]}" "${addmath[@]}" "${chem[@]}" )
-day_4=( "${banhui[@]}" "${malay[@]}" "${chinese[@]}" "${addmath[@]}" "${calc[@]}" "${bio[@]}" "${phy[@]}" "${eng[@]}" "${bio[@]}" "${chem[@]}" "${moral[@]}" )
+day_4=( "${banhui[@]}" "${malay[@]}" "${chinese[@]}" "${addmath[@]}" "${bio[@]}" "${bio[@]}" "${phy[@]}" "${eng[@]}" "${calc[@]}" "${chem[@]}" "${moral[@]}" )
 day_5=( "${banhui[@]}" "${malayhis[@]}" "${phy[@]}" "${calc[@]}" "${eng[@]}" "${eng[@]}" "${chinese[@]}" "${pe[@]}" "${bio[@]}" "${malay[@]}" "${cont[@]}" )
 day_6=( "${banhui[@]}" "${chem[@]}" "${phy[@]}" "${malay[@]}" "${bio[@]}" "${addmath[@]}" "${eng[@]}" "${malayhis[@]}" "${chinese[@]}" "${none[@]}" "${none[@]}")
 

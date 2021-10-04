@@ -8,11 +8,11 @@ T|ECM|BM |MS |CN |BI |MM |SEJ|PM |BM |AM  |
 -|---|---|---|---|---|---|---|---|---|----|
 W|CLS|Physics|CL |Chinese|BM |BI |AM |Chem|
 -|---|---|---|---|---|---|---|---|---|----|
-T|BM |CN |AM |CL |BIO|PHY|BI |BIO|CM |PM  |
+T|BM |CN |AM |Biology|PHY|BI |CL |CM |PM  |
 -|---|---|---|---|---|---|---|---|---|----|
 F|SEJ|PHY|CL |English|CN |PE |BIO|Malay   |
 -|---|---|---|---|---|---|---|---|---|----|
-S|CM |PHY|BM |BIO|CL |BI |SEJ|CN | - | -  |
+S|CM |BM |BI |BIO|AM |PHY|SEJ|CN | - | -  |
 _|___|___|___|___|___|___|___|___|___|____|
 ENG 73105043881 BXx2kh
 BIO 9627723604 20205S

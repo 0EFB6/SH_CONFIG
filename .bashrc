@@ -91,7 +91,7 @@ fi
 alias ll='ls -l'
 alias la='ls -A'
 #alias l='ls -CF'
-alias yy='systemd-analyze && free -h && sensors | grep "Core" && uptime'
+alias yy='neofetch && systemd-analyze && free -h && sensors | grep "Core" && uptime'
 alias gg='git add . && git commit'
 alias gc='git clone '
 alias sp='sudo pacman -Syu'

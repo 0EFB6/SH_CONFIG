@@ -25,7 +25,8 @@ cookie="HSID=AABsKwUAQ13p_j_Y_; SSID=AuZ3g0g9FNKrm4HOS; SID=-QeQvQ040w-E32p-apA8
 
 #autologin="curl 'https://docs.google.com/forms/d/e/1FAIpQLSdJNLDkNHo_jq67IFEcUxY5CViFSwO__IoyttY-q2MCwsD3GA/viewform' -H 'cookie: ${cookie}' --data-urlencode \"entry.1710147335=$name_ch\" --data-urlencode \"entry.22811821=$name_en\" --data-urlencode \"entry.552061334=$class_num\" --data-urlencode \"entry.355708063=$id\" --data-urlencode \"fvv=1\" | html2text"
 
-banhui=( "${browser}https://meet.google.com/lookup/bl6ganevqm${ax}" "班会" ) 
+banhui={ "$[browser}https://meet.google.com/zgn-kgho-sma${ax}" "Banhui" )
+#banhui=( "${browser}https://meet.google.com/lookup/bl6ganevqm${ax}" "班会" ) 
 eng=( "${browser}https://us04web.zoom.us/j/73105043881?pwd=bmp6YmE1S0VvVGRLVVZ5M3ArTjVwUT09" "Eng" )
 music=( "${browser}https://zoom.us/j/3022894614?pwd=SVRJN2p5Z3RFclMrWUczSkwybHdSQT09" "Music" ) 
 bio=( "${browser}https://us04web.zoom.us/j/9627723604?pwd=UnY5cWtaZjh2RG9samlLbFRaRzZVdz09" "Bio" ) 
